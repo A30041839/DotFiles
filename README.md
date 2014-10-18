@@ -1,4 +1,4 @@
 DotFiles
 ========
 
-.vimrc
+VIM configuration file under Mac OS X
